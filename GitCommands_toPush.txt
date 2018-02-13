@@ -1,0 +1,13 @@
+git add .
+git commit .m "AngularJs"
+git config --global user.email "prasadreddy.guvvala@gmail.com"
+git config --global user.name "prasadreddyguvvala"
+git push origin master
+
+$q ==> for creating custom promises
+
+$http ==> Promise
+
+npm install -g http-server
+
+http-server
